@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChuckNorrisFacts/static/css/main.695775c3.chunk.css",
+    "main.js": "/ChuckNorrisFacts/static/js/main.f72127d0.chunk.js",
+    "main.js.map": "/ChuckNorrisFacts/static/js/main.f72127d0.chunk.js.map",
+    "runtime-main.js": "/ChuckNorrisFacts/static/js/runtime-main.ed02929a.js",
+    "runtime-main.js.map": "/ChuckNorrisFacts/static/js/runtime-main.ed02929a.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ChuckNorrisFacts/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.0d79e978.chunk.js": "/ChuckNorrisFacts/static/js/2.0d79e978.chunk.js",
+    "static/js/2.0d79e978.chunk.js.map": "/ChuckNorrisFacts/static/js/2.0d79e978.chunk.js.map",
+    "static/js/3.8109e509.chunk.js": "/ChuckNorrisFacts/static/js/3.8109e509.chunk.js",
+    "static/js/3.8109e509.chunk.js.map": "/ChuckNorrisFacts/static/js/3.8109e509.chunk.js.map",
+    "index.html": "/ChuckNorrisFacts/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ChuckNorrisFacts/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.695775c3.chunk.css.map": "/ChuckNorrisFacts/static/css/main.695775c3.chunk.css.map",
+    "static/js/2.0d79e978.chunk.js.LICENSE.txt": "/ChuckNorrisFacts/static/js/2.0d79e978.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ChuckNorrisFacts/static/media/Kalam-Bold.d81b8c41.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed02929a.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.0d79e978.chunk.js",
+    "static/css/main.695775c3.chunk.css",
+    "static/js/main.f72127d0.chunk.js"
+  ]
+}
